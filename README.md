@@ -54,6 +54,11 @@ Shows your schedule for today or a specified date.
 
 Searches your Google Drive for files matching the given query.
 
+## Deployment
+
+If you want to host your own version of this extension's infrastructure, see the
+[GCP Recreation Guide](docs/GCP-RECREATION.md).
+
 ## Resources
 
 - [Documentation](docs/index.md): Detailed documentation on all the available
